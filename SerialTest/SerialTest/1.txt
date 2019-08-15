@@ -1,0 +1,64 @@
+ng:	 infg
+
+X_axis  reading:	 infg
+
+Y_axis  reading:	 infg
+
+X_axis not found.
+
+Y_axis  reading:	 infg
+
+
+
+Y_axis  reading:	 infg
+
+X_axis  reading:	 infg
+
+Y_axis  reading:	 infg
+
+X_axis not found.
+
+Y_axis  reading:	 infg
+
+Hello,World
+Written by HQ
+Completion time:2019.7.16
+Need calibration? 
+Place two 10g weights, please.
+success!
+please set one 10g
+success!
+please set zero 10g
+X_axis is success!
+please set two 10g
+success!
+please set one 10g
+success!
+please set zero 10g
+Y_axis is success!
+K_X=infK_Y=-0.294117660522ENV_X0.00ENV_Y162171.00
+X_axis not found.
+
+Y_axis  reading:	 -22.94g
+
+X_axis not found.
+
+Y_axis  reading:	 -19.41g
+
+X_axis not found.
+
+Y_axis  reading:	 -7.06g
+
+X_axis not found.
+
+Y_axis  reading:	 -50.59g
+
+X_axis not found.
+
+Y_axis  reading:	 -22.65g
+
+X_axis  reading:	 nang
+
+Y_axis  reading:	 -9.12g
+
+
